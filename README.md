@@ -39,8 +39,22 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://stefanini.com/pt-br)
 **PL DevOps Analyst** \
 [**Stefanini Group**](https://stefanini.com/pt-br/) • Full-time \
-Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`,
-<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
+Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `GitLab`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://o2b.com.br/)
+**Site Reliability Engineering** \
+[**O2B Operation to Business**](https://o2b.com.br/) • Full-time \
+Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `GitLab`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://br.claranet.com/)
+**Cloud PL Analyst** \
+[**Claranet Brasil**](https://br.claranet.com/) • Full-time \
+Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `Bitbucket`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://stefanini.com/pt-br/)
+**PL Support Analyst** \
+[**Stefanini Group**](https://stefanini.com/pt-br/) • Full-time \
+Competências: `Atividades como N3`, `Liberação de Software`, `Atendimento ao Cliente`, `Suporte técnico`, `Active Directory`, `Windows Server`
 
 ##
 
