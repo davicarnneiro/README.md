@@ -124,10 +124,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davicarnneiro/)
     
  ##
 
-  <h2>Temos Sistemas!</h2>
+  <!-- <h2>Temos Sistemas!</h2>
   <p>Sistema para oficina mecânica</p>
   <p>Sistema controle de estoque e vendas</p>
-  <p>Sistema para assistência tecnica em eletrônicos</p>
+  <p>Sistema para assistência tecnica em eletrônicos</p> -->
   
  ![Snake animation](https://github.com/davicarnneiro/davicarnneiro/blob/main/output/github-contribution-grid-snake.svg) 
 
