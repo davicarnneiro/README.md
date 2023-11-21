@@ -37,9 +37,9 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://stefanini.com/pt-br)
-**Strategy and Innovation Analyst** \
-[**UzziPay**](https://www.uzzipay.com/) • Full-time \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
+**PL DevOps Analyst** \
+[**Stefanini Group**](https://stefanini.com/pt-br/) • Full-time \
+Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`,
 <br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
 
 ##
