@@ -73,7 +73,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davicarnneiro/)
 
 #### Licenças e certificados:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/pTFWGc9d/uni9.png"/>](https://www.uninove.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/J0hDFSFZ/AWS-Certified-Cloud-Practitioner.png"/>](https://www.uninove.br/)
 **AWS Certified Cloud Practitioner** \
 [**Amazon Web Services**](https://www.credly.com/badges/48750073-2f33-45a2-8f92-bd7a878404b0/linked_in_profile) \
 
