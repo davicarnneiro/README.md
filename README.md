@@ -133,10 +133,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davicarnneiro/)
   <a href="https://www.linkedin.com/in/davicarnneiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  ##
-  <h2>Temos Sistemas Prontos!</h2>
-  <p>*Sistema para oficina mecânica</p>
-  <p>*Sistema controle de estoque e vendas</p>
-  <p>*Sistema para assistência tecnica em eletrônicos</p>
+  <h2>Temos Sistemas!</h2>
+  <p>Sistema para oficina mecânica</p>
+  <p>Sistema controle de estoque e vendas</p>
+  <p>Sistema para assistência tecnica em eletrônicos</p>
   
   
   
