@@ -41,12 +41,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Stefanini Group**](https://stefanini.com/pt-br/) • Full-time \
 Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `GitLab`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://o2b.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/MZ1yj873/images.jpg"/>](https://o2b.com.br/)
 **Site Reliability Engineering** \
 [**O2B Operation to Business**](https://o2b.com.br/) • Full-time \
 Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `GitLab`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://br.claranet.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nrN55fLP/claranet.png"/>](https://br.claranet.com/)
 **Cloud PL Analyst** \
 [**Claranet Brasil**](https://br.claranet.com/) • Full-time \
 Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `Bitbucket`
