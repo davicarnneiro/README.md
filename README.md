@@ -3,7 +3,7 @@
 ## Hello, Devs!! 👋
 ### Meu nome é Davi, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Caldas do Jorro/Ba, Brasil
+- 📍  Sou de Caldas do Jorro/Ba, Brasil
 - ⚡ Apaixonado por Esporte e Tecnologia
 - 🧠 Formado em Analise e Desenvolvimento de Sistemas pela Uninove (SP)
 - 🏦 Atualmente trabalho como Analista DevOps PL na Stefanini Group, uma multinacional brasileira que atua no setor de serviços em TI.
@@ -12,6 +12,7 @@
 
 #### Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Terraform" src="https://icon-icons.com/icon/file-type-terraform/130125"/>](https://www.terraform.io/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://about.gitlab.com/)
