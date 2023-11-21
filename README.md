@@ -140,7 +140,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davicarnneiro/)
   
   
   
- ![Snake animation](https://gitlab.com/davicarnneiro/app-web/-/blob/main/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/davicarnneiro/davicarnneiro/blob/main/output/github-contribution-grid-snake.svg) 
   
 </div>
 
