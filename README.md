@@ -47,9 +47,9 @@ Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
-**Software Developer** \
-[**Cubos Academy**](https://cubos.academy/) \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/pTFWGc9d/uni9.png"/>](https://www.uninove.br/)
+**Análise e Desenvolvimento de Sistemas** \
+[**Uninove**](https://www.uninove.br/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `SQL`, `PostgreSQL`
 
