@@ -12,7 +12,7 @@
 
 #### Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Terraform" src="https://icon-icons.com/icon/file-type-terraform.png"/>](https://www.terraform.io/)
+[<img height="48px" width="48px" alt="Icone Terraform" src="https://br.pinterest.com/pin/268456827778425129"/>](https://www.terraform.io/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://about.gitlab.com/)
