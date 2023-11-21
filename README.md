@@ -53,15 +53,15 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `SQL`, `PostgreSQL`
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davicarnneiro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
 #### Estatísticas:
 <div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelltulio&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=israelltulio&show_icons=true&include_all_commits=true&theme=radical"/>
-<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&amp;theme=radical">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicarnneiro&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=davicarnneiro&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=davicarnneiro&amp;theme=radical">
 </div>
 
 
