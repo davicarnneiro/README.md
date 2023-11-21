@@ -6,7 +6,7 @@
 - 📍  Sou de Caldas do Jorro/Ba, Brasil
 - ⚡ Apaixonado por Esporte e Tecnologia
 - 🧠 Formado em Analise e Desenvolvimento de Sistemas pela Uninove (SP)
-- 🏦 Atualmente trabalho como Analista DevOps PL na Stefanini Group, uma multinacional brasileira que atua no setor de serviços em TI.
+<!-- - 🏦 Atualmente trabalho como Analista DevOps PL na Stefanini Group, uma multinacional brasileira que atua no setor de serviços em TI. -->
 
 ##
 
@@ -28,15 +28,15 @@
 ##
 
 #### Como entrar em contato comigo:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/israelltulio)
-[<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:israelltulio@icloud.com)
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/davicarnneiro)
+[<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:davicarjes@gmail.com)
 
 ##
 
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://stefanini.com/pt-br)
 **Strategy and Innovation Analyst** \
 [**UzziPay**](https://www.uzzipay.com/) • Full-time \
 Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
