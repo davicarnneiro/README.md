@@ -30,6 +30,7 @@
 #### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/davicarnneiro)
 [<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:davicarnneiro@icloud.com)
+[<img alt="Instagram" src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/in/davicarnneiro)
 
 ##
 
