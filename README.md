@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Hello World!! 👋
+## Hello World!! 🌍
 ### Meu nome é Davi, Seja bem-vindo ao meu perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 📍  Sou de Caldas do Jorro/Ba, Brasil
-- ⚡ Apaixonado por Esporte e Tecnologia
-- 🧠 Formado em Analise e Desenvolvimento de Sistemas pela Uninove (SP)
+- 📍 Sou de Caldas do Jorro/Ba, Brasil ✅
+- ⚡  Apaixonado por Esporte e Tecnologia ✅
+- 🧠 Formado em Analise e Desenvolvimento de Sistemas pela Uninove (SP) ✅
 <!-- - 🏦 Atualmente trabalho como Analista DevOps PL na Stefanini Group, uma multinacional brasileira que atua no setor de serviços em TI. -->
 
 ##
