@@ -34,7 +34,7 @@
 ##
 
 #### Experiência Profissional:
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Na visão geral abaixo você encontrará minhas experiências de trabalho;
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://stefanini.com/pt-br)
 **PL DevOps Analyst** \
