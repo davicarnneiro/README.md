@@ -16,7 +16,7 @@
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://about.gitlab.com/)
-[<img height="48px" width="48px" alt="Icone Jenkins" src="https://skillicons.dev/icons?i=gitlab"/>](https://www.jenkins.io/)
+[<img height="48px" width="48px" alt="Icone Jenkins" src="https://skillicons.dev/icons?i=jenkins"/>](https://www.jenkins.io/)
 [<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/pt)
 [<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
 [<img height="48px" width="48px" alt="Icone kubernetes" src="https://skillicons.dev/icons?i=k8s"/>](https://kubernetes.io/pt-br)
