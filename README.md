@@ -39,54 +39,6 @@
 
 ##
 
-#### Experiência Profissional:
-Na visão geral abaixo você encontrará minhas experiências de trabalho;
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://stefanini.com/pt-br)
-**PL DevOps Analyst** \
-[**Stefanini Group**](https://stefanini.com/pt-br/) • Full-time \
-Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `GitLab`
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/MZ1yj873/images.jpg"/>](https://o2b.com.br/)
-**Site Reliability Engineering** \
-[**O2B Operation to Business**](https://o2b.com.br/) • Full-time \
-Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `GitLab`
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nrN55fLP/claranet.png"/>](https://br.claranet.com/)
-**Cloud PL Analyst** \
-[**Claranet Brasil**](https://br.claranet.com/) • Full-time \
-Competências: `Terraform`, `Amazon Web Services`, `Kubernetes`, `Integração e entrega contínuas (CI/CD)`, `Docker`, `Bitbucket`
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/nLjq0TTR/STEFANINI-GROUP-LOGO.png"/>](https://stefanini.com/pt-br/)
-**PL Support Analyst** \
-[**Stefanini Group**](https://stefanini.com/pt-br/) • Full-time \
-Competências: `Atividades como N3`, `Liberação de Software`, `Atendimento ao Cliente`, `Suporte técnico`, `Active Directory`, `Windows Server`
-
-##
-
-#### Formação Acadêmica:
-Na visão geral abaixo você encontrará minha formação acadêmica:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/pTFWGc9d/uni9.png"/>](https://www.uninove.br/)
-**Análise e Desenvolvimento de Sistemas** \
-[**Uninove**](https://www.uninove.br/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `SQL`, `PostgreSQL`
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davicarnneiro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-##
-
-#### Licenças e certificados:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/J0hDFSFZ/AWS-Certified-Cloud-Practitioner.png"/>](https://www.uninove.br/)
-**AWS Certified Cloud Practitioner**
-[**Amazon Web Services**](https://www.credly.com/badges/48750073-2f33-45a2-8f92-bd7a878404b0/linked_in_profile)
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davicarnneiro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-##
-
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/HshZ6gN0/oracle-logo.jpg"/>](https://www.uninove.br/)
 **Oracle Certified Foundations Associate**
 [**Oracle**](https://brm-certview.oracle.com/ords/certview/ScoreReport?ssn=OC2314647&registrationID=26152102)
