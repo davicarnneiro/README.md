@@ -1,7 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-![Snake animation](https://github.com/davicarnneiro/davicarnneiro/blob/main/output/github-contribution-grid-snake.svg) 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 ##
@@ -10,6 +8,10 @@
 ### I'm Davi and this is my projects repository
 
 ###
+
+![Snake animation](https://github.com/davicarnneiro/davicarnneiro/blob/main/output/github-contribution-grid-snake.svg)
+
+##
 
 <div align="center">
   <a href="https://github.com/davicarnneiro">
