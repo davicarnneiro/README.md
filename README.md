@@ -22,8 +22,8 @@
 
 ##
 
-<div align="center">
-#### Ferramentas que uso:
+
+<div align="center"> #### Ferramentas que uso:</div>
 [<img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Terraform" src="https://i.postimg.cc/RVYcxcjk/terraform.png/"/>](https://www.terraform.io/)
@@ -38,7 +38,7 @@
 [<img height="48px" width="48px" alt="Icone Ansible" src="https://skillicons.dev/icons?i=ansible"/>](https://www.ansible.com/)
 [<img height="48px" width="48px" alt="Icone Grafana" src="https://skillicons.dev/icons?i=grafana"/>](https://grafana.com/)
 [<img height="48px" width="48px" alt="Icone Prometheus" src="https://skillicons.dev/icons?i=prometheus"/>](https://prometheus.io/)
-</div>
+
 ##
 
 <!-- <div align="center" style="display: inline_block"><br>
