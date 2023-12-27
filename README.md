@@ -24,7 +24,7 @@
 
 #### Ferramentas que uso:
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
 [<img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Terraform" src="https://i.postimg.cc/RVYcxcjk/terraform.png/"/>](https://www.terraform.io/)
