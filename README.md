@@ -76,6 +76,7 @@
     <h1>🚀 Meus Projetos 🚀</h1>
     <a href = "https://github.com/davicarnneiro/application-web-aws"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=application-web-aws&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
     <a href = "https://github.com/davicarnneiro/terraform-module-ec2-aws"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=terraform-module-ec2-aws&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
+    <a href = "https://github.com/davicarnneiro/terraform-eks-aws"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=terraform-eks-aws&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
 </div>
 
 #
