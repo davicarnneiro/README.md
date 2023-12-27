@@ -5,7 +5,7 @@
 ##
 
 ### Hi there 👋
-### I'm Davi and this is my projects repository
+### I'm Davi and this is my projects repository ☑
 
 ###
 
