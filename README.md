@@ -42,7 +42,7 @@
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Icone Linux" width="50" src="https://skillicons.dev/icons?i=linux"/>(https://linux.org)
-    <img align="center" alt="VS-Code" width="50" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+    <img align="center" alt="VS-Code" width="50" src="https://skillicons.dev/icons?i=vscode"/>(https://code.visualstudio.com)
     <img align="center" alt="kubernets" width="50" src=imagens_tecnologias/kubernetes.png>
     <img align="center" alt="docker" width="50" src=imagens_tecnologias/docker1.png>
     <img align="center" alt="linux" width="50" src=imagens_tecnologias/linux.png>
