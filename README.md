@@ -24,7 +24,7 @@
 
 
 #### Ferramentas que uso:
-[<img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org)
+<!-- [<img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Terraform" src="https://i.postimg.cc/RVYcxcjk/terraform.png/"/>](https://www.terraform.io/)
 [<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/pt)
@@ -37,16 +37,16 @@
 [<img height="48px" width="48px" alt="Icone kubernetes" src="https://skillicons.dev/icons?i=k8s"/>](https://kubernetes.io/pt-br)
 [<img height="48px" width="48px" alt="Icone Ansible" src="https://skillicons.dev/icons?i=ansible"/>](https://www.ansible.com/)
 [<img height="48px" width="48px" alt="Icone Grafana" src="https://skillicons.dev/icons?i=grafana"/>](https://grafana.com/)
-[<img height="48px" width="48px" alt="Icone Prometheus" src="https://skillicons.dev/icons?i=prometheus"/>](https://prometheus.io/)
+[<img height="48px" width="48px" alt="Icone Prometheus" src="https://skillicons.dev/icons?i=prometheus"/>](https://prometheus.io/) -->
 
 ##
 
-<!-- <div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
     <img align="center" alt="Icone Linux" width="50" src="https://skillicons.dev/icons?i=linux"/>
     <img align="center" alt="VS-Code" width="50" src="https://skillicons.dev/icons?i=vscode"/>
-    <img align="center" alt="kubernets" width="50" src=imagens_tecnologias/kubernetes.png>
+    <img align="center" alt="Terraform" width="50" src=https://i.postimg.cc/RVYcxcjk/terraform.png>
     <img align="center" alt="docker" width="50" src=imagens_tecnologias/docker1.png>
-    <img align="center" alt="linux" width="50" src=imagens_tecnologias/linux.png>
+    <img align="center" alt="AWS" width="50" src=https://skillicons.dev/icons?i=aws>
     <img align="center" alt="prometheus" width="50" src=imagens_tecnologias/prometheus.png>
     <img align="center" alt="ansible" width="50" src=imagens_tecnologias/ansible.png>
     <img align="center" alt="terraform" width="50" src=imagens_tecnologias/terraform.png>
@@ -55,7 +55,7 @@
     <img align="center" alt="gcp" width="50" src=imagens_tecnologias/GCP.png>
     <img align="center" alt="golang" width="50" src=imagens_tecnologias/golang.png>
     <img align="center" alt="python" width="50" src=imagens_tecnologias/python.png>
-</div> -->
+</div>
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="AzDevOps" width="650" src=https://i.postimg.cc/C5dMcrTm/devops-process.png>
