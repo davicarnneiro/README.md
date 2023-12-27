@@ -40,8 +40,8 @@
 
 ##
 
-<!-- <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="AzDevOps" width="50" src=imagens_tecnologias/AzDevOps.png>
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Icone Linux" width="50" src="https://skillicons.dev/icons?i=linux"/>(https://linux.org)
     <img align="center" alt="git" width="50" src=imagens_tecnologias/Git.png>
     <img align="center" alt="kubernets" width="50" src=imagens_tecnologias/kubernetes.png>
     <img align="center" alt="docker" width="50" src=imagens_tecnologias/docker1.png>
@@ -54,7 +54,7 @@
     <img align="center" alt="gcp" width="50" src=imagens_tecnologias/GCP.png>
     <img align="center" alt="golang" width="50" src=imagens_tecnologias/golang.png>
     <img align="center" alt="python" width="50" src=imagens_tecnologias/python.png>
-</div> -->
+</div>
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="AzDevOps" width="650" src=https://i.postimg.cc/C5dMcrTm/devops-process.png>
