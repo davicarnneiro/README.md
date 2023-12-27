@@ -23,7 +23,6 @@
 ##
 
 
-#### Ferramentas que uso:
 <!-- [<img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Terraform" src="https://i.postimg.cc/RVYcxcjk/terraform.png/"/>](https://www.terraform.io/)
@@ -41,6 +40,7 @@
 
 ##
 
+#### Ferramentas que utilizo:
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Icone Linux" width="50" src="https://skillicons.dev/icons?i=linux"/>
     <img align="center" alt="VS-Code" width="50" src="https://skillicons.dev/icons?i=vscode"/>
