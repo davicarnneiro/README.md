@@ -24,19 +24,19 @@
 
 #### Ferramentas que uso:
 [<img align="center" height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Terraform" src="https://i.postimg.cc/RVYcxcjk/terraform.png/"/>](https://www.terraform.io/)
-[<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/pt)
-[<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
-[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://about.gitlab.com/)
-[<img height="48px" width="48px" alt="Icone Jenkins" src="https://skillicons.dev/icons?i=jenkins"/>](https://www.jenkins.io/)
-[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
-[<img height="48px" width="48px" alt="Icone kubernetes" src="https://skillicons.dev/icons?i=k8s"/>](https://kubernetes.io/pt-br)
-[<img height="48px" width="48px" alt="Icone Ansible" src="https://skillicons.dev/icons?i=ansible"/>](https://www.ansible.com/)
-[<img height="48px" width="48px" alt="Icone Grafana" src="https://skillicons.dev/icons?i=grafana"/>](https://grafana.com/)
-[<img height="48px" width="48px" alt="Icone Prometheus" src="https://skillicons.dev/icons?i=prometheus"/>](https://prometheus.io/)
+[<img align="center" height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img align="center" height="48px" width="48px" alt="Icone Terraform" src="https://i.postimg.cc/RVYcxcjk/terraform.png/"/>](https://www.terraform.io/)
+[<img align="center" height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/pt)
+[<img align="center" height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
+[<img align="center" height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img align="center" height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img align="center" height="48px" width="48px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://about.gitlab.com/)
+[<img align="center" height="48px" width="48px" alt="Icone Jenkins" src="https://skillicons.dev/icons?i=jenkins"/>](https://www.jenkins.io/)
+[<img align="center" height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+[<img align="center" height="48px" width="48px" alt="Icone kubernetes" src="https://skillicons.dev/icons?i=k8s"/>](https://kubernetes.io/pt-br)
+[<img align="center" height="48px" width="48px" alt="Icone Ansible" src="https://skillicons.dev/icons?i=ansible"/>](https://www.ansible.com/)
+[<img align="center" height="48px" width="48px" alt="Icone Grafana" src="https://skillicons.dev/icons?i=grafana"/>](https://grafana.com/)
+[<img align="center" height="48px" width="48px" alt="Icone Prometheus" src="https://skillicons.dev/icons?i=prometheus"/>](https://prometheus.io/)
 
 ##
 
