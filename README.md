@@ -59,7 +59,6 @@
 <div align="center" style="display: inline_block"><br>
     <h1>🚀 Meus Projetos 🚀</h1>
     <a href = "https://github.com/davicarnneiro/terraform-module-ec2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=terraform-module-ec2&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
-</div>
 <a href = "https://github.com/davicarnneiro/eks"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=eks&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
 </div>
 
