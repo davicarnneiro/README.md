@@ -40,7 +40,7 @@
 
 ##
 
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Icone Linux" width="50" src="https://skillicons.dev/icons?i=linux"/>
     <img align="center" alt="VS-Code" width="50" src="https://skillicons.dev/icons?i=vscode"/>
     <img align="center" alt="kubernets" width="50" src=imagens_tecnologias/kubernetes.png>
@@ -54,7 +54,7 @@
     <img align="center" alt="gcp" width="50" src=imagens_tecnologias/GCP.png>
     <img align="center" alt="golang" width="50" src=imagens_tecnologias/golang.png>
     <img align="center" alt="python" width="50" src=imagens_tecnologias/python.png>
-</div>
+</div> -->
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="AzDevOps" width="650" src=https://i.postimg.cc/C5dMcrTm/devops-process.png>
