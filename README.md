@@ -44,17 +44,18 @@
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Icone Linux" width="50" src="https://skillicons.dev/icons?i=linux"/>
     <img align="center" alt="VS-Code" width="50" src="https://skillicons.dev/icons?i=vscode"/>
-    <img align="center" alt="Terraform" width="50" src=https://i.postimg.cc/RVYcxcjk/terraform.png>
-    <img align="center" alt="docker" width="50" src=imagens_tecnologias/docker1.png>
-    <img align="center" alt="AWS" width="50" src=https://skillicons.dev/icons?i=aws>
-    <img align="center" alt="prometheus" width="50" src=imagens_tecnologias/prometheus.png>
-    <img align="center" alt="ansible" width="50" src=imagens_tecnologias/ansible.png>
-    <img align="center" alt="terraform" width="50" src=imagens_tecnologias/terraform.png>
-    <img align="center" alt="azure" width="50" src=imagens_tecnologias/azure.png>
-    <img align="center" alt="aws" width="50" src=imagens_tecnologias/aws1.png>
-    <img align="center" alt="gcp" width="50" src=imagens_tecnologias/GCP.png>
-    <img align="center" alt="golang" width="50" src=imagens_tecnologias/golang.png>
-    <img align="center" alt="python" width="50" src=imagens_tecnologias/python.png>
+    <img align="center" alt="Terraform" width="50" src="https://i.postimg.cc/RVYcxcjk/terraform.png">
+    <img align="center" alt="Docker" width="50" src="https://skillicons.dev/icons?i=docker">
+    <img align="center" alt="AWS" width="50" src="https://skillicons.dev/icons?i=aws">
+    <img align="center" alt="Azure" width="50" src="https://skillicons.dev/icons?i=azure">
+    <img align="center" alt="kubernetes" width="50" src="https://skillicons.dev/icons?i=k8s">
+    <img align="center" alt="Git" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+    <img align="center" alt="GitHub" width="50" src="https://skillicons.dev/icons?i=github">
+    <img align="center" alt="Gitlab" width="50" src="https://skillicons.dev/icons?i=gitlab">
+    <img align="center" alt="Ansible" width="50" src="https://skillicons.dev/icons?i=ansible">
+    <img align="center" alt="Prometheus" width="50" src="https://skillicons.dev/icons?i=prometheus">
+    <img align="center" alt="Grafana" width="50" src="https://skillicons.dev/icons?i=grafana">
+    <img align="center" alt="Python" width="50" src="https://skillicons.dev/icons?i=python">
 </div>
 
 <div align="center" style="display: inline_block"><br>
