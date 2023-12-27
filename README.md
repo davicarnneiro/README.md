@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+![Snake animation](https://github.com/davicarnneiro/davicarnneiro/blob/main/output/github-contribution-grid-snake.svg) 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 ##
@@ -50,16 +52,6 @@
 
 ##
 
-#### Estatísticas:
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicarnneiro&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=davicarnneiro&show_icons=true&include_all_commits=true&theme=radical"/>
-<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=davicarnneiro&amp;theme=radical">
-</div>
-
-
-
-
 <!-- <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -82,8 +74,6 @@
   <p>Sistema controle de estoque e vendas</p>
   <p>Sistema para assistência tecnica em eletrônicos</p> -->
   
- ![Snake animation](https://github.com/davicarnneiro/davicarnneiro/blob/main/output/github-contribution-grid-snake.svg) 
-
  ##
 
  <div align="center"> 
