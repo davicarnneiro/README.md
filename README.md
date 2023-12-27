@@ -1,12 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Hello World!! 🌍
-### Meu nome é Davi, Seja bem-vindo ao meu perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
-- 📍 Sou de Caldas do Jorro/Ba, Brasil ✅
-- ⚡  Apaixonado por Esporte e Tecnologia ✅
-- 🧠 Formado em Analise e Desenvolvimento de Sistemas pela Uninove (SP) ✅
-<!-- - 🏦 Atualmente trabalho como Analista DevOps PL na Stefanini Group, uma multinacional brasileira que atua no setor de serviços em TI. -->
+### Hi there 👋
+### I'm Davi and this is my projects repository  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 ##
 
@@ -26,6 +21,12 @@
 [<img height="48px" width="48px" alt="Icone Prometheus" src="https://skillicons.dev/icons?i=prometheus"/>](https://prometheus.io/)
 
 ##
+
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="AzDevOps" width="650" src=https://i.postimg.cc/C5vYDGRk/AzDevOps.png>
+</div>
+
+###
 
 #### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/davicarnneiro)
