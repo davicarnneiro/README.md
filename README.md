@@ -33,6 +33,7 @@
     <img align="center" alt="kubernetes" width="50" src="https://skillicons.dev/icons?i=k8s">
     <img align="center" alt="Git" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
     <img align="center" alt="GitHub" width="50" src="https://skillicons.dev/icons?i=github">
+    <img align="center" alt="GitHub-Actions" width="50" src="https://skillicons.dev/icons?i=githubactions">
     <img align="center" alt="Gitlab" width="50" src="https://skillicons.dev/icons?i=gitlab">
     <img align="center" alt="Ansible" width="50" src="https://skillicons.dev/icons?i=ansible">
     <img align="center" alt="Prometheus" width="50" src="https://skillicons.dev/icons?i=prometheus">
